@@ -1,1 +1,3 @@
-Test function - 35 min
+Implementation: 1h
+Test function - 35m
+Documentation - 10m
