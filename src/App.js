@@ -1,7 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import { testValidate } from './utils/validator';
 
 function App() {
+  testValidate();
   return (
     <div className="App">
       <header className="App-header">
